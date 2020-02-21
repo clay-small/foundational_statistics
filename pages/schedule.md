@@ -1,16 +1,115 @@
 ---
 layout: page
-title: course schedule
-description: schedule
+title: Foundational Statistics // UO Bi 610
+description: Course schedule
 ---
 
-The schedule.
+## Week 1
 
-Week 1
+1. Data organization and management
+    - best practices, reproducibility, etc.
 
-: topics
+2. Basic programming fundamentals for data curation
+    - The Unix environment and fundamental commands
+    - Formatting and manipulating tabular text files from the terminal
+    - Essential programming concepts (e.g. variables, ifelse, for loops)
 
-Week 2
+3. Introduction to R and Rstudio
+    - Installation/Updates
+    - R object types and assignment
 
-: more topics
+## Week 2
 
+1. Practice with R objects
+    - vectors, matrices, data frames, etc.
+
+2. Applying core programming fundamentals in R
+    - vectorized operations
+    - replicate, apply family, ifelse, for loops, etc.
+
+3. R markdown
+
+## Week 3
+
+1. Plotting/visualizing data as a means of exploration
+    - Different plot types
+    - Scale, transformations, etc.
+
+2. Fundamentals of plotting in base R
+    - par
+    - using palettes, points, sizes, etc. to convey information
+    - axes and labels
+
+## Week 4
+
+1. Population parameters, samples, and sampling distributions
+    - Central Limit Theorem and the normal dist.
+    - Mean and st. dev.
+
+2. Probability and probability distributions
+
+3. Calculating summary statistics
+    - Other common summary statistics (quantiles, etc.)
+
+## Week 5
+
+1. Parameter estimation
+
+    - Simulating data sets with known parameters
+    - Revisit probability distributions
+
+2. Uncertainty in estimation
+    - Parametric and nonparametric approaches to uncertainty
+
+## Week 6
+
+1. Experimental design
+    - lexicon
+    - considering sources of variance
+    - types of variables (categorical, ordinal, rational)
+    - confounding variables
+
+2. Frequentist hypothesis testing
+    - error types
+    - p-values
+    - degrees of freedom
+    - statistical power
+    - multiple testing problem
+
+## Week 7
+
+1. Comparing means between groups
+    - Student’s t-test
+
+2. Bootstrapping and randomization to compare means
+
+## Week 8
+
+1. Relationships between quantitative variables
+    - correlation and covariance
+
+2. Simple linear regression
+    - residuals and least squares
+    - fitting linear regression models
+
+## Week 9
+
+1. Analysis of variance
+    - Table components and test statistics
+
+2. General linear models in R
+    - Model formulae
+    - Interpretation of summary output
+
+3. More complex ANOVA frameworks
+    - Nested models
+    - Factorial models
+
+## Week 10
+
+1. Frequency-based statistical tests
+    - Chi-squared tests
+    - Contingency tables and tests of independence
+
+2. Brief introduction to generalized linear models (time permitting)
+    - logistic regression
