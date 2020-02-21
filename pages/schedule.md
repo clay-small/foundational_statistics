@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Foundational Statistics // UO Bi 610
-description: Course schedule
+description- Course schedule
 ---
 
 ## Week 1
