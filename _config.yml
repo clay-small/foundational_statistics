@@ -8,15 +8,15 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : The Course You Are Teaching
+title : Foundational Statistics
 author :
-  name : Peter Ralph
-  email : petrelharp@gmail.com
-  github : petrelharp
+  name : Clay Small
+  email : csmall@uoregon.edu
+  github : UO-Biostats
   twitter : nil
   feedburner : nil
 
-production_url : http://petrelharp.github.io/course_website
+production_url : http://uo-biostats.github.io/foundational_statistics
 
 # Tell Github to use the kramdown markdown interpreter
 # (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
@@ -54,7 +54,7 @@ JB :
   #   - Only the following values are falsy: ["", null, false]
   #   - When setting BASE_PATH it must be a valid url.
   #     This means always setting the protocol (http|https) or prefixing with "/"
-  BASE_PATH : https://petrelharp.github.io/course_website
+  BASE_PATH : https://uo-biostats.github.io/foundational_statistics
 
   # By default, the asset_path is automatically defined relative to BASE_PATH plus the enabled theme.
   # ex: [BASE_PATH]/assets/themes/[THEME-NAME]
