@@ -5,7 +5,8 @@ tagline:
 description: course website
 ---
 
-This is the website for *This Course*.
+This is the website for *Foundational Statistics*,
+Bi 610 at the University of Oregon.
 
 Quick links:
 
